@@ -1,0 +1,3 @@
+Total amount of deposits: $220
+Total amount of withdraws: $90
+Total interest earned: $58.64

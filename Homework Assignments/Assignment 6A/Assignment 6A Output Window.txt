@@ -1,0 +1,18 @@
+How many items do you want to order? Enter 0 to stop ordering: 250
+Your total is: 1995. 150 items in back order.
+
+How many items do you want to order: 25
+Your total is: 0. 75 items in back order.
+
+How many items do you want to order: 25
+25 items ordered. Your total is: 498.75
+
+How many items do you want to order: 50
+Your total is: 0. 50 items in back order.
+
+How many items do you want to order: 10
+10 items ordered. Your total is: 199.5
+
+How many items do you want to order: 0
+5 orders processed.
+Program ended with exit code: 0

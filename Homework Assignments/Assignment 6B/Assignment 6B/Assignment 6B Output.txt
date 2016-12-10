@@ -1,0 +1,25 @@
+How many items do you want to order? Enter 0 to stop ordering: 90
+
+How many items do you want to order: 50
+40 items in backorder.
+
+How many items do you want to order: 30
+
+How many items do you want to order: 120
+90 items in backorder.
+
+How many items do you want to order: 50
+40 items in backorder.
+
+How many items do you want to order: 30
+
+How many items do you want to order: 0
+
+6 orders processed.
+Your total price is: $7381.5
+The maximum amount ordered is: 120
+There were 3 orders backordered. These is the amount ordered for each order that had a back order:
+50
+120
+50
+Program ended with exit code: 0

@@ -1,0 +1,73 @@
+Now processing set number 1:
+Set 1 is valid. Its average is: 68.6
+
+Now processing set number 2:
+Set 2 contains an invalid test score and its average will not be computed.
+
+Now processing set number 3:
+Set 3 contains an invalid test score and its average will not be computed.
+
+Now processing set number 4:
+Set 4 is valid. Its average is: 65.2
+
+Now processing set number 5:
+Set 5 contains an invalid test score and its average will not be computed.
+
+Now processing set number 6:
+Set 6 is valid. Its average is: 42
+
+Now processing set number 7:
+Set 7 is valid. Its average is: 69.6
+
+Now processing set number 8:
+Set 8 contains an invalid test score and its average will not be computed.
+
+Now processing set number 9:
+Set 9 is valid. Its average is: 41.8
+
+Now processing set number 10:
+Set 10 contains an invalid test score and its average will not be computed.
+
+Now processing set number 11:
+Set 11 is valid. Its average is: 98.8
+
+Now processing set number 12:
+Set 12 is valid. Its average is: 57
+
+Now processing set number 13:
+Set 13 is valid. Its average is: 65.2
+
+Now processing set number 14:
+Set 14 contains an invalid test score and its average will not be computed.
+
+Now processing set number 15:
+Set 15 is valid. Its average is: 80.6
+
+Now processing set number 16:
+Set 16 contains an invalid test score and its average will not be computed.
+
+Now processing set number 17:
+Set 17 is valid. Its average is: 85.8
+
+Now processing set number 18:
+Set 18 is valid. Its average is: 43.2
+
+Now processing set number 19:
+Set 19 contains an invalid test score and its average will not be computed.
+
+Now processing set number 20:
+Set 20 is valid. Its average is: 51.6
+
+Now processing set number 21:
+Set 21 is valid. Its average is: 63.2
+
+Now processing set number 22:
+Set 22 contains an invalid test score and its average will not be computed.
+
+Now processing set number 23:
+Set 23 is valid. Its average is: 45.2
+
+There were 23 sets processed.
+There were 9 sets of invalid test scores.
+There were 14 sets of valid test scores.
+

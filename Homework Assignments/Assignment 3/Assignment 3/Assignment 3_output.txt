@@ -1,0 +1,63 @@
+Hello, are you ready to play the hi-lo game? I am thinking of a number, enter a guess, and I will tell you if it is too high, too low, or just right.
+
+I am thinking of a number between 0 and 100.
+Enter a guess: 50
+Nope! My number is less than 50!
+Enter a guess: 25
+Nope! My number is less than 25!
+Enter a guess: 10
+Nope! My number is greater than 10!
+Enter a guess: 15
+Nope! My number is greater than 15!
+Enter a guess: 20
+Nope! My number is less than 20!
+Enter a guess: 17
+Nope! My number is greater than 17!
+Enter a guess: 18
+Nope! My number is greater than 18!
+Enter a guess: 19
+You entered the correct number!
+You won in 8 guesses!
+
+Do you want to play again? (Y/N): y
+
+I am thinking of a number between 0 and 100.
+Enter a guess: 50
+Nope! My number is less than 50!
+Enter a guess: 25
+Nope! My number is less than 25!
+Enter a guess: 15
+Nope! My number is less than 15!
+Enter a guess: 5
+Nope! My number is greater than 5!
+Enter a guess: 10
+Nope! My number is less than 10!
+Enter a guess: 8
+Nope! My number is greater than 8!
+Enter a guess: 9
+You entered the correct number!
+You won in 7 guesses!
+
+Do you want to play again? (Y/N): Y
+
+I am thinking of a number between 0 and 100.
+Enter a guess: 50
+Nope! My number is greater than 50!
+Enter a guess: 75
+Nope! My number is greater than 75!
+Enter a guess: 100
+Nope! My number is less than 100!
+Enter a guess: 85
+Nope! My number is less than 85!
+Enter a guess: 80
+Nope! My number is less than 80!
+Enter a guess: 76
+Nope! My number is greater than 76!
+Enter a guess: 77
+Nope! My number is greater than 77!
+Enter a guess: 78
+You entered the correct number!
+You won in 8 guesses!
+
+Do you want to play again? (Y/N): n
+Program ended with exit code: 0
