@@ -1,0 +1,7 @@
+I am taking the following courses this semester:
+1110
+1011
+1050
+3200
+1105
+Program ended with exit code: 0
