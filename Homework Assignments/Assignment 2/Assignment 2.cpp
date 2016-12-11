@@ -49,7 +49,7 @@ int main ()
     assesssedValue  = value * .57;
     taxAmount       = (assesssedValue/100.00)*.64;
     
-    cout	<< "The new property's value is "   << value << ".\n"
+    cout    << "The new property's value is "   << value << ".\n"
             << "Its new assessed value is "     << assesssedValue << ".\n"
             << "The new tax amount is "         << taxAmount << ".\n\n";
     
