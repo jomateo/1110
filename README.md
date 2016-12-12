@@ -1,3 +1,3 @@
 # 1110
 
-Homeworks and Lab Assignments for Introduction to C++
+Homeworks and Lab Assignments for Introduction to Programming with C++
