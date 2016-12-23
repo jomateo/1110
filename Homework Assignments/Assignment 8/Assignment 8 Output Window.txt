@@ -1,0 +1,24 @@
+909  299.99  3445  Astros    Star
+871  200.50  8152  Gorman   Kilos
+631  599.99  5547  Astros   Flint
+459   50.00  8605  Flight  Assure
+410  250.50  2485  Flight  Lancer
+234  300.50  9870  Astros    Loop
+233  500.00  5465  Gorman  Rewind
+189   99.99  1235  Gorman  Quasar
+173  600.00  9570  Flight    Dare
+120  449.99  4020  Astros   Pulse
+
+Which phone do you want to search for? Jump
+Phone name not found. Try again: Quasar
+Phone found at location 7:
+189   99.99  1235  Gorman  Quasar
+
+Enter minimum price to search for: 69.53
+Enter maximum price to search for: 400
+871   99.99  8152  Gorman   Kilos
+631  200.50  5547  Astros   Flint
+459  250.50  8605  Flight  Assure
+410  299.99  2485  Flight  Lancer
+234  300.50  9870  Astros    Loop
+Program ended with exit code: 0
