@@ -1,16 +1,23 @@
+This program reads in 5 test scores each from 23 students. It decides if each student's test scores are valid or not. A valid test score is in the range from 0 - 100. If the test score is invalid, the program will print it and state why. It does this for each of the student's test scores, and then prints out if the set is valid or not. If the set contains all valid scores, it computes the student's average score. It does this for all the students, at the end, a message will print showing how many sets were valid, invalid, and how many sets were processed.
+
 Now processing set number 1:
 Set 1 is valid. Its average is: 68.6
 
 Now processing set number 2:
+The test score -4 is invalid because it is less than 0.
 Set 2 contains an invalid test score and its average will not be computed.
 
 Now processing set number 3:
+The test score 103 is invalid because it is greater than 100.
 Set 3 contains an invalid test score and its average will not be computed.
 
 Now processing set number 4:
 Set 4 is valid. Its average is: 65.2
 
 Now processing set number 5:
+The test score -10 is invalid because it is less than 0.
+The test score -58 is invalid because it is less than 0.
+The test score -5 is invalid because it is less than 0.
 Set 5 contains an invalid test score and its average will not be computed.
 
 Now processing set number 6:
@@ -20,12 +27,15 @@ Now processing set number 7:
 Set 7 is valid. Its average is: 69.6
 
 Now processing set number 8:
+The test score 105 is invalid because it is greater than 100.
+The test score 102 is invalid because it is greater than 100.
 Set 8 contains an invalid test score and its average will not be computed.
 
 Now processing set number 9:
 Set 9 is valid. Its average is: 41.8
 
 Now processing set number 10:
+The test score 103 is invalid because it is greater than 100.
 Set 10 contains an invalid test score and its average will not be computed.
 
 Now processing set number 11:
@@ -38,12 +48,15 @@ Now processing set number 13:
 Set 13 is valid. Its average is: 65.2
 
 Now processing set number 14:
+The test score -3 is invalid because it is less than 0.
 Set 14 contains an invalid test score and its average will not be computed.
 
 Now processing set number 15:
 Set 15 is valid. Its average is: 80.6
 
 Now processing set number 16:
+The test score 102 is invalid because it is greater than 100.
+The test score 101 is invalid because it is greater than 100.
 Set 16 contains an invalid test score and its average will not be computed.
 
 Now processing set number 17:
@@ -53,6 +66,9 @@ Now processing set number 18:
 Set 18 is valid. Its average is: 43.2
 
 Now processing set number 19:
+The test score 102 is invalid because it is greater than 100.
+The test score -2 is invalid because it is less than 0.
+The test score 101 is invalid because it is greater than 100.
 Set 19 contains an invalid test score and its average will not be computed.
 
 Now processing set number 20:
@@ -62,6 +78,8 @@ Now processing set number 21:
 Set 21 is valid. Its average is: 63.2
 
 Now processing set number 22:
+The test score -4 is invalid because it is less than 0.
+The test score 103 is invalid because it is greater than 100.
 Set 22 contains an invalid test score and its average will not be computed.
 
 Now processing set number 23:
